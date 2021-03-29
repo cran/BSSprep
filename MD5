@@ -1,0 +1,11 @@
+a348b77928053a84c8155dc34d81cb15 *DESCRIPTION
+1e5785fe26d7f5acfee8325e1abc60cb *NAMESPACE
+e4a55ba7f3500073ca13d63c940cce92 *R/BSSprep.R
+00066f0b05caa7802ee5771bbe254c40 *inst/ChangeLog
+0088664cb3e6b9aa6a919e84dbce4cd0 *man/BSSprep-package.Rd
+c4e3528941002d9d4be975736cdca03f *man/BSSprep.Rd
+2b58fb20545c8b926e4be2c39d61f69a *src/BSSprep.cpp
+44dbb1d14d80ed299acafefeefe6a429 *src/BSSprep.h
+95a5e0dc5dbdec9c251c142cb4cad286 *src/Makevars
+2a33ba1c4b4b0d46d9ed823230c620e1 *src/Makevars.win
+bf9efd89207be7ee4df3b357f89a2a15 *src/bb.c
